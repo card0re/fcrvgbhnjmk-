@@ -1,5 +1,10 @@
 [
    {
+        "login": "pomantik",
+        "password": "pomantik1337",
+        "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF"
+   },
+   {
         "login": "w1nndy",
         "password": "w1nndy1337",
         "hwid": "03D502E0-045E-0567-BB06-310700080009"
